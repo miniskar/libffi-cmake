@@ -79,11 +79,11 @@
 /* Define to 1 if you have the `memcpy' function. */
 #cmakedefine01 HAVE_MEMCPY
 
-/* Define to 1 if you have the `memfd_create' function. */
-#cmakedefine01 HAVE_MEMFD_CREATE
+/* Define to if you have the `memfd_create' function. */
+#cmakedefine HAVE_MEMFD_CREATE
 
-/* Define to 1 if you have the `sys/memfd.h' function. */
-#cmakedefine01 HAVE_SYS_MEMFD_H
+/* Define to if you have the `sys/memfd.h' function. */
+#cmakedefine HAVE_SYS_MEMFD_H
 
 /* Define to 1 if you have the <memory.h> header file. */
 #cmakedefine01 HAVE_MEMORY_H
